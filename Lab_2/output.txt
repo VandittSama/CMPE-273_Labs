@@ -63,6 +63,7 @@ Message pushed, input = 10000
 
 
 ****Worker1****
+
 Message pulled, input = 9883
 Message pulled, input = 9886
 Message pulled, input = 9889

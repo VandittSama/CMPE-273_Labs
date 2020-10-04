@@ -1,0 +1,261 @@
+****Master****
+
+Message pushed, input = 9941
+Message pushed, input = 9942
+Message pushed, input = 9943
+Message pushed, input = 9944
+Message pushed, input = 9945
+Message pushed, input = 9946
+Message pushed, input = 9947
+Message pushed, input = 9948
+Message pushed, input = 9949
+Message pushed, input = 9950
+Message pushed, input = 9951
+Message pushed, input = 9952
+Message pushed, input = 9953
+Message pushed, input = 9954
+Message pushed, input = 9955
+Message pushed, input = 9956
+Message pushed, input = 9957
+Message pushed, input = 9958
+Message pushed, input = 9959
+Message pushed, input = 9960
+Message pushed, input = 9961
+Message pushed, input = 9962
+Message pushed, input = 9963
+Message pushed, input = 9964
+Message pushed, input = 9965
+Message pushed, input = 9966
+Message pushed, input = 9967
+Message pushed, input = 9968
+Message pushed, input = 9969
+Message pushed, input = 9970
+Message pushed, input = 9971
+Message pushed, input = 9972
+Message pushed, input = 9973
+Message pushed, input = 9974
+Message pushed, input = 9975
+Message pushed, input = 9976
+Message pushed, input = 9977
+Message pushed, input = 9978
+Message pushed, input = 9979
+Message pushed, input = 9980
+Message pushed, input = 9981
+Message pushed, input = 9982
+Message pushed, input = 9983
+Message pushed, input = 9984
+Message pushed, input = 9985
+Message pushed, input = 9986
+Message pushed, input = 9987
+Message pushed, input = 9988
+Message pushed, input = 9989
+Message pushed, input = 9990
+Message pushed, input = 9991
+Message pushed, input = 9992
+Message pushed, input = 9993
+Message pushed, input = 9994
+Message pushed, input = 9995
+Message pushed, input = 9996
+Message pushed, input = 9997
+Message pushed, input = 9998
+Message pushed, input = 9999
+Message pushed, input = 10000
+
+
+****Worker1****
+Message pulled, input = 9883
+Message pulled, input = 9886
+Message pulled, input = 9889
+Message pulled, input = 9892
+Message pulled, input = 9895
+Message pulled, input = 9898
+Message pulled, input = 9901
+Message pulled, input = 9904
+Message pulled, input = 9907
+Message pulled, input = 9910
+Message pulled, input = 9913
+Message pulled, input = 9916
+Message pulled, input = 9919
+Message pulled, input = 9922
+Message pulled, input = 9925
+Message pulled, input = 9928
+Message pulled, input = 9931
+Message pulled, input = 9934
+Message pulled, input = 9937
+Message pulled, input = 9940
+Message pulled, input = 9943
+Message pulled, input = 9946
+Message pulled, input = 9949
+Message pulled, input = 9952
+Message pulled, input = 9955
+Message pulled, input = 9958
+Message pulled, input = 9961
+Message pulled, input = 9964
+Message pulled, input = 9967
+Message pulled, input = 9970
+Message pulled, input = 9973
+Message pulled, input = 9976
+Message pulled, input = 9979
+Message pulled, input = 9982
+Message pulled, input = 9985
+Message pulled, input = 9988
+Message pulled, input = 9991
+Message pulled, input = 9994
+Message pulled, input = 9997
+Message pulled, input = 10000
+
+
+****Worker2****
+
+Message pulled, input = 9881
+Message pulled, input = 9884
+Message pulled, input = 9887
+Message pulled, input = 9890
+Message pulled, input = 9893
+Message pulled, input = 9896
+Message pulled, input = 9899
+Message pulled, input = 9902
+Message pulled, input = 9905
+Message pulled, input = 9908
+Message pulled, input = 9911
+Message pulled, input = 9914
+Message pulled, input = 9917
+Message pulled, input = 9920
+Message pulled, input = 9923
+Message pulled, input = 9926
+Message pulled, input = 9929
+Message pulled, input = 9932
+Message pulled, input = 9935
+Message pulled, input = 9938
+Message pulled, input = 9941
+Message pulled, input = 9944
+Message pulled, input = 9947
+Message pulled, input = 9950
+Message pulled, input = 9953
+Message pulled, input = 9956
+Message pulled, input = 9959
+Message pulled, input = 9962
+Message pulled, input = 9965
+Message pulled, input = 9968
+Message pulled, input = 9971
+Message pulled, input = 9974
+Message pulled, input = 9977
+Message pulled, input = 9980
+Message pulled, input = 9983
+Message pulled, input = 9986
+Message pulled, input = 9989
+Message pulled, input = 9992
+Message pulled, input = 9995
+Message pulled, input = 9998
+
+
+****Worker3****
+
+Message pulled, input = 9882
+Message pulled, input = 9885
+Message pulled, input = 9888
+Message pulled, input = 9891
+Message pulled, input = 9894
+Message pulled, input = 9897
+Message pulled, input = 9900
+Message pulled, input = 9903
+Message pulled, input = 9906
+Message pulled, input = 9909
+Message pulled, input = 9912
+Message pulled, input = 9915
+Message pulled, input = 9918
+Message pulled, input = 9921
+Message pulled, input = 9924
+Message pulled, input = 9927
+Message pulled, input = 9930
+Message pulled, input = 9933
+Message pulled, input = 9936
+Message pulled, input = 9939
+Message pulled, input = 9942
+Message pulled, input = 9945
+Message pulled, input = 9948
+Message pulled, input = 9951
+Message pulled, input = 9954
+Message pulled, input = 9957
+Message pulled, input = 9960
+Message pulled, input = 9963
+Message pulled, input = 9966
+Message pulled, input = 9969
+Message pulled, input = 9972
+Message pulled, input = 9975
+Message pulled, input = 9978
+Message pulled, input = 9981
+Message pulled, input = 9984
+Message pulled, input = 9987
+Message pulled, input = 9990
+Message pulled, input = 9993
+Message pulled, input = 9996
+Message pulled, input = 9999
+
+
+****Dashboard****
+
+Square root of 9936 is 99.67948635501689
+Square root of 9935 is 99.67447015158896
+Square root of 9943 is 99.71459271340379
+Square root of 9939 is 99.69453345093702
+Square root of 9938 is 99.68951800465283
+Square root of 9946 is 99.72963451251589
+Square root of 9942 is 99.70957827611147
+Square root of 9941 is 99.70456358662827
+Square root of 9945 is 99.72462083156798
+Square root of 9944 is 99.71960689854328
+Square root of 9948 is 99.73966111833346
+Square root of 9951 is 99.75469913743412
+Square root of 9949 is 99.74467404327912
+Square root of 9947 is 99.73464794142505
+Square root of 9954 is 99.76973488989535
+Square root of 9952 is 99.75971130671941
+Square root of 9950 is 99.74968671630002
+Square root of 9957 is 99.78476837674175
+Square root of 9955 is 99.77474630386187
+Square root of 9953 is 99.76472322419383
+Square root of 9960 is 99.7997995989972
+Square root of 9958 is 99.7897790357309
+Square root of 9956 is 99.77975746613137
+Square root of 9963 is 99.81482855768475
+Square root of 9961 is 99.80480950335009
+Square root of 9959 is 99.79478944313676
+Square root of 9966 is 99.82985525382675
+Square root of 9964 is 99.81983770774224
+Square root of 9962 is 99.80981915623332
+Square root of 9969 is 99.84487968844472
+Square root of 9967 is 99.83486364992943
+Square root of 9965 is 99.82484660644363
+Square root of 9972 is 99.85990186255943
+Square root of 9970 is 99.84988733093293
+Square root of 9968 is 99.83987179478947
+Square root of 9975 is 99.87492177719089
+Square root of 9973 is 99.86490875177326
+Square root of 9971 is 99.8548947222919
+Square root of 9978 is 99.88993943335835
+Square root of 9976 is 99.87992791347018
+Square root of 9974 is 99.86991538997117
+Square root of 9981 is 99.90495483208028
+Square root of 9979 is 99.89494481704267
+Square root of 9977 is 99.88493379884676
+Square root of 9984 is 99.91996797437437
+Square root of 9982 is 99.90995946350894
+Square root of 9980 is 99.89994994993741
+Square root of 9987 is 99.93497886125758
+Square root of 9983 is 99.91496384426108
+Square root of 9985 is 99.92497185388645
+Square root of 9990 is 99.9499874937461
+Square root of 9986 is 99.92997548283498
+Square root of 9988 is 99.93998198919189
+Square root of 9993 is 99.96499387285532
+Square root of 9989 is 99.94498486667553
+Square root of 9991 is 99.95498987044118
+Square root of 9996 is 99.9799979995999
+Square root of 9992 is 99.9599919967984
+Square root of 9994 is 99.9699954986495
+Square root of 9999 is 99.99499987499375
+Square root of 9995 is 99.9749968742185
+Square root of 9997 is 99.98499887483122
+Square root of 10000 is 100.0
+Square root of 9998 is 99.98999949994999

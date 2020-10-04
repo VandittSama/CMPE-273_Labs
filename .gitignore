@@ -123,3 +123,24 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Lab_2/.DS_Store
+Lab_2/.vscode/settings.json
+Lab_2/lab2_venv/.DS_Store
+Lab_2/lab2_venv/bin/activate
+Lab_2/lab2_venv/bin/activate.csh
+Lab_2/lab2_venv/bin/activate.fish
+Lab_2/lab2_venv/bin/Activate.ps1
+Lab_2/lab2_venv/bin/easy_install
+Lab_2/lab2_venv/bin/easy_install-3.8
+Lab_2/lab2_venv/bin/epylint
+Lab_2/lab2_venv/bin/isort
+Lab_2/lab2_venv/bin/pip
+Lab_2/lab2_venv/bin/pip3
+Lab_2/lab2_venv/bin/pip3.8
+Lab_2/lab2_venv/bin/pylint
+Lab_2/lab2_venv/bin/pyreverse
+Lab_2/lab2_venv/bin/python
+Lab_2/lab2_venv/bin/python3
+Lab_2/lab2_venv/bin/symilar
+Lab_2/lab2_venv/pipenv-proper-names.txt
+Lab_2/lab2_venv/pyvenv.cfg
